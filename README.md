@@ -43,3 +43,7 @@
 | coursera.org: Основы разработки на C++: белый пояс              | 09/2021 - 10/2021  |
 | coursera.org: Основы разработки на C++: белый пояс              | 10/2021 - 11/2021  |
 | Тинькофф Образование: .NET разработчик                          | 02/2022 - 05/2022  |
+
+---
+### :bar_chart: Статистика
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stacenko-developer&theme=blue-green)
