@@ -46,4 +46,5 @@
 
 ---
 ### :bar_chart: Статистика
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stacenko-developer&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stacenko-developer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
